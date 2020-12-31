@@ -11,7 +11,6 @@ Optimize for runtime over memory
 """
 import unittest
 
-
 def can_two_movies_fill_flight(movie_lengths, flight_length):
     #set for hashing
     movie_lengths_seen = set()
